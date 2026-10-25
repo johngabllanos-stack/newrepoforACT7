@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHS Days</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="shs_days.html">SHS Days</a> |
+        <a href="about.html">About Me</a>
+    </nav>
+
+    <hr>
+
+    <main>
+        <h2>My SHS Days</h2>
+
+        <p>My Senior High School days were full of memorable moments. I learned a lot and met new friends.</p>
+
+        <img src="shs-picture.jpg" alt="SHS memory" width="400">
+
+        <br><br>
+
+        <p>Here is another memory from my SHS days.</p>
+
+        <img src="shs-picture2.jpg" alt="Another SHS memory" width="400">
+    </main>
+</body>
+</html>
